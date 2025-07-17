@@ -99,3 +99,4 @@ Although the model’s accuracy could be improved with hyperparameter tuning and
 This project successfully implemented a collaborative filtering-based recommendation system using the MovieLens dataset. The use of the SVD algorithm enabled the model to learn latent factors from sparse user-movie interaction data, leading to accurate predictions. The results proved the practicality of matrix factorization in real-world applications.
 
 Through this hands-on task, key concepts such as data preprocessing, model evaluation, and collaborative filtering were reinforced. The project also showcased the importance of understanding user behavior for building intelligent systems.
+<img width="1384" height="596" alt="Image" src="https://github.com/user-attachments/assets/58fc6466-c7df-4657-b453-4b44e02248c9" />
